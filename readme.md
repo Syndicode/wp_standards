@@ -6,10 +6,10 @@
 
 Для удобства навигации стандарты разделены на следующие разделы:
 
-* Стили
-* Wordpress
-* Javascript
-* HTML
+* [Стили](https://github.com/Syndicode/wp_standarts/blob/master/styles.md)
+* [Wordpress](https://github.com/Syndicode/wp_standarts/blob/master/wordpress.md)
+* [Javascript](https://github.com/Syndicode/wp_standarts/blob/master/javascript.md)
+* [HTML](https://github.com/Syndicode/wp_standarts/blob/master/html.md)
 
 Запланировано:
 
